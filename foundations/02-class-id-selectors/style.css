@@ -1,0 +1,19 @@
+.odd {
+  background-color: rgb(236, 186, 225);
+  font-family: Verdana, "dejavu sans", sans-serif;
+}
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
+
+.large {
+  font-size: 24px;
+}
+
+#uniq {
+  background-color: rgb(100, 255, 0);
+  font-size: 24px;
+  font-weight: bold;
+}
